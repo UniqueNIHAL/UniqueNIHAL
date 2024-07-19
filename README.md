@@ -5,7 +5,7 @@
 - I'm learning CSS, Java and Google Cloud with Generative AI
 - Refer my linkdin for latest information about me
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me nihalhu@acm.org
+- 📫 How to reach me hello@nihalhu.co
 
 <!---
 UniqueNIHAL/UniqueNIHAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
